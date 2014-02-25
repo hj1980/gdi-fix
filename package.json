@@ -1,0 +1,29 @@
+{
+  "name": "gdi-fix",
+  "version": "0.1.0",
+  "description": "Fix up Google Drive's snapshot.db to reflect new inodes. Useful if copying to a new drive, for example.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fix",
+    "google",
+    "drive",
+    "inode",
+    "snapshot"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hj1980/gdi-fix"
+  },
+  "author": {
+    "name": "Heath Jones",
+    "email": "hj1980@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hj1980/gdi-fix/issues"
+  },
+  "homepage": "https://github.com/hj1980/gdi-fix"
+}
